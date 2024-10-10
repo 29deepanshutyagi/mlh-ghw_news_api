@@ -1,4 +1,3 @@
-# mlh-ghw_news_api
 
 ## Inspiration
 This project was inspired by the need to provide users with an accessible platform to stay updated with the latest news from various sources. We aim to enhance information accessibility and help users discover news that matters to them.
